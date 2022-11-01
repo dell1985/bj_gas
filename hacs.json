@@ -1,0 +1,5 @@
+{
+  "name": "北京燃气信息查询",
+  "domains": ["sensor"],
+  "render_readme": true
+}
